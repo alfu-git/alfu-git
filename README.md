@@ -93,9 +93,10 @@
 
 <h2 align="left">My GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alfu-git/alfu-git/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/alfu-git/alfu-git/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+![Top language](https://stats.pphat.top/languages?username=alfu-git)
 
 ###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
