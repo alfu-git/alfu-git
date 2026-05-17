@@ -5,7 +5,7 @@ A Passionate MERN-Stack Developer
 -------------------------------
 
 * ✉️  You can contact me at [mdalfaz.dev@gmail.com](mailto:mdalfaz.dev@gmail.com)
-* 🧠  I'm currently learning Next.Js
+* 🧠  I'm currently learning Node.Js and Express.Js
 
 ###
 
