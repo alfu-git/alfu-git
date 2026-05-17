@@ -10,7 +10,7 @@ A Passionate MERN-Stack Developer
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/4nbDzdy9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
+  <img height="200" src="h[ttps://i.ibb.co/4nbDzdy9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png](https://www.linkedin.com/in/md-alfaz-dev7/overlay/background-image/)"  />
 </div>
 
 ###
