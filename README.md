@@ -1,25 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm MD Alfaz
 =================================================================================================================================
 
-A Passionate MERN-Stack Developer
+🚀 Passionate MERN Stack Developer | Future AI Engineer
 -------------------------------
 
 * ✉️  You can contact me at [mdalfaz.dev@gmail.com](mailto:mdalfaz.dev@gmail.com)
-* 🧠  I'm currently learning Node.Js and Express.Js
+* 🧠  I'm currently learning **Node.js & Express.js**
 
 ###
 
-<div align="center">
-  <img height="200" src="h[ttps://i.ibb.co/4nbDzdy9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png](https://www.linkedin.com/in/md-alfaz-dev7/overlay/background-image/)"  />
-</div>
+<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/c4458bd1-1c32-409f-a508-8200ec456846" />
 
-###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨Building modern and responsive web applications.<br>📚 I'm currently learning Next.Js<br>🎯 Goals: Aspiring Top-Level MERN Stack Developer | AI Enthusiast<br>🎲 Fun fact: I even code in my dreams… and sometimes solve problems there too!</p>
+<p align="left">✨ Building **modern, responsive & scalable web apps**<br>📚 Currently learning **Node.js & Express.js**<br>🎯 Goal: Become a **Top-Level MERN + AI Developer**<br>⚡ Fun fact: *I even code in my dreams 😄*</p>
 
 ###
 
