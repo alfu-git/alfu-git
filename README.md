@@ -93,6 +93,30 @@
 
 <h2 align="left">My GitHub Stats</h2>
 
+###
+
+<p align="center">
+  <a href="https://github.com/alfu-git">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfu-git&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="alfu-git's GitHub Stats" />
+  </a> 
+</p>
+
+###
+
+<p align="center">
+  <a href="https://github.com/alfu-git">
+    <img src="https://streak-stats.demolab.com/?user=alfu-git&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="alfu-git's GitHub Streak" width="49%" />
+  </a>  
+</p>
+
+###
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alfu-git&theme=radical&radius=10" alt="alfu-git's Activity Graph" />
+</p>
+
+###
+
 ![Top language](https://stats.pphat.top/languages?username=alfu-git)
 
 ###
